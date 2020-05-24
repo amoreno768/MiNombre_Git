@@ -9,6 +9,7 @@ public class Minombre_Git {
 
 		System.out.println("\n");
 		System.out.println("HOLA, ME LLAMO  'ALEJANDRO MORENO LÓPEZ'");
+		System.out.println("_______________________________________");
 	}
 
 }
